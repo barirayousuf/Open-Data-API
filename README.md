@@ -1,4 +1,6 @@
 # Open-Data-API
+## Introduction
+Basically this application is designed to read the karachi target killing data and in turn provides the jason.
 
 ## Base URL
 http://104.131.115.46:555/api/v1/open_data/
